@@ -5,8 +5,8 @@ body {
 }
 .header {
     background-color: #6943FF;
-    padding: 0.5%;
-    padding-bottom: 4%;
+    padding: 3px;
+    padding-bottom: 30px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 800;
@@ -21,8 +21,8 @@ body {
     color: white;
     /* Aligns block to the center */
     display: block;
-    margin: 1% auto;
-    padding: 1%;
+    margin: 5px auto;
+    padding: 5px;
     
     width: 117px;
     font-family: Inter;
@@ -41,11 +41,9 @@ body {
     box-sizing: border-box;
     display: block;
     margin: auto;
-    margin-top: 3%;
-    padding: 1.5% 5%;
-    width: 117px;
-    text-align: center;
-    
+    margin-top: 10px;
+    padding: 5px 20px;
+    min-width: 110px;
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
     border-radius: 5px;
   
@@ -71,6 +69,7 @@ body {
     font-weight: 400;
     line-height: 20px;
     letter-spacing: 0em;
+    
 
 }
 
